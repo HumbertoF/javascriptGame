@@ -40,6 +40,6 @@ if (greeting.toLowerCase() === "yes") {
 }
 // if user does not want to play print out the following message
  else if (greeting === "no") {
-    console.log("Maybe next time?");pageYOffset
+    console.log("ugh... Ok, maybe next time?");pageYOffset
     }
 }
